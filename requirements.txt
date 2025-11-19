@@ -1,0 +1,2 @@
+textrequests
+beautifulsoup4
